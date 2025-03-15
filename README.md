@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**VikumBhashitha02/VikumBhashitha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **W.K.V Bhashitha**, a passionate developer currently pursuing a B.Sc. in Information Technology at SLIIT. I love solving problems with technology and building innovative solutions!
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools I Work With
+- **Frontend:** React.js, Next.js, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Other Skills:** Java, Python, C++, IoT, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I'm Working On
+- Developing **Cafena**, a coffee shop web app.
+- Building **MERN authentication systems** with JWT.
+- Creating **export business management software**.
+- Exploring **AI & Machine Learning applications**.
+
+### 📖 Currently Learning
+- Advanced **Machine Learning & AI**
+- **Embedded Systems & IoT**
+- **Robotics & Automation**
+
+### 💡 Looking for Help With
+- Machine Learning model integration.
+- IoT-based real-world applications.
+
+### 📫 How to Reach Me
+- **LinkedIn:** [W.K.V Bhashitha](https://www.linkedin.com/in/vikum-bhashitha/)
+- **GitHub:** [VikumBhashitha02](https://github.com/VikumBhashitha02)
+- **Medium:** [VikumBhashitha](https://medium.com/@vikumbhashitha)
+
+### 🎉 Fun Fact
+I love traveling and exploring new places, and I'm always excited to take on new challenges!
