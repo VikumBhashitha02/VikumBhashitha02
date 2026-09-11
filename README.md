@@ -46,20 +46,6 @@ fun_fact: "Demoed live AI on stage — twice — and survived both times"
 
 ---
 
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikumBhashitha02&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
----
-
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VikumBhashitha02&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
----
-
 ### 🧰 Tech Arsenal
 
 <p align="center">
