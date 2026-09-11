@@ -22,7 +22,7 @@ I enjoy learning and growing every day and aspire to become a skilled Robotics E
 ## 📊 Languages & Tools Usage
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikumBhashitha02&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ I enjoy learning and growing every day and aspire to become a skilled Robotics E
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VikumBhashitha02&show_icons=true&count_private=true&theme=radical" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ I enjoy learning and growing every day and aspire to become a skilled Robotics E
   <a href="mailto:vbhashitha02@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio-flax-delta-w9yx64yval.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -62,5 +62,5 @@ I enjoy learning and growing every day and aspire to become a skilled Robotics E
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VikumBhashitha02&style=flat-square&color=blue" alt="Profile views" />
 </p>
